@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\77471\Desktop\Timmess\Timmess-app\native-audio-jni\.cxx\cmake\release\x86'
+ninja: no work to do.

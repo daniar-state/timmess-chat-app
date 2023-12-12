@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Timmess-app.iml" filepath="$PROJECT_DIR$/.idea/modules/Timmess-app.iml" group="Timmess-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Timmess-app/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jnilib/jnilib.iml" filepath="$PROJECT_DIR$/.idea/modules/jnilib/jnilib.iml" group="Timmess-app/jnilib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/native-audio-jni/native-audio-jni.iml" filepath="$PROJECT_DIR$/.idea/modules/native-audio-jni/native-audio-jni.iml" group="Timmess-app/native-audio-jni" />
+    </modules>
+  </component>
+</project>
